@@ -1,6 +1,8 @@
 The problem gave you an image which looked like a QR code, but the data section
 has colors, whereas a normal QR code does not have any colors.
 
+![Image](./QvR.png)
+
 My initial thouhts were to separate the different color values into different
 images, so one image had the red color stream as data, one image had the green
 color stream as data, and one image had the blue color stream as data. Then, I
