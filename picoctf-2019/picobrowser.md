@@ -5,7 +5,7 @@ can press that will give you the flag. However, if you press it in your web
 browser, it will give you an error saying "You're not picobrowser!" and list
 some text after it that depends on your OS and browser (for me, it says
 `Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0`,
-but yours will likel be different).
+but yours will likely be different).
 
 That string of text is known as a
 [User-Agent](https://en.wikipedia.org/wiki/User_agent) and it tells the server
